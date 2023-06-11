@@ -1,6 +1,7 @@
 <character id="jordan">
  <head>
   <link rel="stylesheet" href="jordanw.css">
+  <script src="jordanw.js"></script>
   <face class="skin"/>
         <eyes type="3"/>
    <hairstyle class="face hair"type="6"/>
