@@ -1,5 +1,6 @@
 <character id="jordan">
  <head>
+  <link rel="stylesheet" href="jordanw.css">
   <face class="skin"/>
         <eyes type="3"/>
    <hairstyle class="face hair"type="6"/>
